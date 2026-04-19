@@ -222,6 +222,20 @@ I welcome serious inquiries from researchers, engineers, and potential collabora
 - **Technical questions or bug reports**: Please [open a GitHub issue](https://github.com/NawfalMotii79/PLFM_RADAR/issues) so the whole community can benefit from the discussion.
 - **Collaboration, licensing, or business inquiries**: 📧 nawfal.motii.33 [at] gmail [dot] com
 
+## 🧠 Community Q&A (Chinese)
+
+**问：m5 max 128g苹果本有什么重大突破？购买理由有哪些？**
+
+**答：**如果你主要看生产力和稳定性，M5 Max（128GB 统一内存版本）的价值通常在这几项：
+- **更强 AI 与多媒体吞吐**：本地 AI 推理、视频编解码、多路 4K/8K 工作流更流畅。
+- **更高统一内存上限的实用性**：128GB 对大型模型、超大工程、复杂剪辑与多应用并行更友好，减少频繁换页。
+- **功耗与续航优势**：在高负载下通常比同级高性能轻薄本更安静、更省电。
+- **生态与协同**：如果你已经在 iPhone/iPad/macOS 生态中，跨设备协作成本更低。
+
+**是否值得买（简版）**：
+- **值得**：视频后期、3D、AI 开发、超大规模编译/仿真等重度用户。
+- **可再评估**：仅日常办公/轻度开发，性价比往往不如更低配机型。
+
 ## 💰 Sponsors
 
 ![PCBWay Sponsor Logo](https://raw.githubusercontent.com/NawfalMotii79/PLFM_RADAR/main/8_Utils/PCBWAY.jpg)
